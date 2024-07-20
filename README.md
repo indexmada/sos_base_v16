@@ -1,1 +1,1 @@
-relative to invoice
+relative to invoice (sequence)
